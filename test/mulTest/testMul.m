@@ -1,4 +1,4 @@
-classdef (TestTags = {'Multiply'}) testMul < matlab.unittest.TestCase
+classdef (TestTags = {'Square'}) testMul < matlab.unittest.TestCase
     %TESTCALC Summary of this class goes here
     %   Detailed explanation goes here
     
