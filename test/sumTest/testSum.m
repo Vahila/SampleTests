@@ -3,7 +3,7 @@ classdef testSum < matlab.unittest.TestCase
     %   Detailed explanation goes here
     
     methods(Test)        
-        function testMultiplication(testCase)
+        function testAddition(testCase)
             %METHOD1 Summary of this method goes here
             %   Detailed explanation goes here
             a = 2+2;
