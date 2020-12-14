@@ -3,7 +3,7 @@ classdef testModelSim < matlab.unittest.TestCase
     %   Detailed explanation goes here
     
     methods(Test)
-        function testSquare(testCase)
+        function testModel(testCase)
             %TESTCALC Construct an instance of this class
             %   Detailed explanation goes here
             tf = sltest.testmanager.TestFile('test.mldatx');
