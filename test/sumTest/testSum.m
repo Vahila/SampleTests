@@ -1,4 +1,4 @@
-classdef testSum (TestTags = {'TestTag'}) < matlab.unittest.TestCase
+classdef (TestTags = {'TestTag'}) testSum < matlab.unittest.TestCase
     %TESTCALC Summary of this class goes here
     %   Detailed explanation goes here
     
